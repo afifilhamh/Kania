@@ -1,0 +1,2427 @@
+﻿,merchant_name,merchant_area,category,display,product,price,discount_price,isDiscount,description,restaurant_status,rating,Location
+0,369 Shanghai, Jemursari,Chinese,BEST DEAL,Bestdeal Noodle,108000,,0,Song mie/ Mie Zha jiang +Xiaolongbao/Guo tie small+ Air mineral,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+1,369 Shanghai, Jemursari,Chinese,BEST DEAL,Bestdeal Sup,129599,,0,Sup shanghai +Xiao long bao/ guo tie small +  air mineral,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+2,369 Shanghai, Jemursari,Chinese,BEST DEAL,Bestdeal rice,116400,,0,Nasi goreng 369/ Nasi grg smoked ham + Xiao long bao/ guo tie small + air mineral,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+3,369 Shanghai, Jemursari,Chinese,Dumpling,Siomay Ayam Rebus / Goreng,36000,,0,4 pcs,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+4,369 Shanghai, Jemursari,Chinese,Dumpling,Siomay Babi Rebus/ Goreng,36000,,0,4 pcs,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+5,369 Shanghai, Jemursari,Chinese,Dumpling,Xiao Long Bao 'Pork',69599,,0,8 pcs,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+6,369 Shanghai, Jemursari,Chinese,Dumpling,Guo Tie 'Pork',69599,,0,8 pcs,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+7,369 Shanghai, Jemursari,Chinese,Sandwich,Sandwich Tiongkok,43200,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+8,369 Shanghai, Jemursari,Chinese,Soup,Sup Shanghai,84000,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+9,369 Shanghai, Jemursari,Chinese,Soup,Tim Obat Ayam Hitam,145200,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+10,369 Shanghai, Jemursari,Chinese,Soup,Sup Bakwan,34800,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+11,369 Shanghai, Jemursari,Chinese,Soup,Tim Obat Ayam Kampung,102000,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+12,369 Shanghai, Jemursari,Chinese,Noodles,Mie Polos,26401,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+13,369 Shanghai, Jemursari,Chinese,Noodles,Mie Babat,68400,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+14,369 Shanghai, Jemursari,Chinese,Noodles,Mie Ayam,51599,,0,Mie Kuning/Putih/Sayur/Bihun,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+15,369 Shanghai, Jemursari,Chinese,Noodles,Mie Kou Rou,70800,,0,Mie Kuning/Putih/Sayur/Bihun,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+16,369 Shanghai, Jemursari,Chinese,Noodles,Mie Zhajiang,56400,,0,Mie Kuning/Putih/Sayur/Bihun,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+17,369 Shanghai, Jemursari,Chinese,Noodles,Lomie,66000,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+18,369 Shanghai, Jemursari,Chinese,Noodles,Mie Goreng Pork / CK,56400,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+19,369 Shanghai, Jemursari,Chinese,Noodles,Bihun Gr 369 Pork/ Ck,56400,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+20,369 Shanghai, Jemursari,Chinese,Noodles,Mie Hokkian,62400,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+21,369 Shanghai, Jemursari,Chinese,Noodles,Mie Babi Jamur,61200,,0,Mie Kuning/Putih/Sayur/Bihun,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+22,369 Shanghai, Jemursari,Chinese,Noodles,Mie Baikut Goreng,66000,,0,Mie Kuning/Putih/Sayur/Bihun,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+23,369 Shanghai, Jemursari,Chinese,Noodles,Mie Casiu Pork,67200,,0,Mie Kuning/Putih/Sayur/Bihun,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+24,369 Shanghai, Jemursari,Chinese,Rice,Nasi Cap Jay,69601,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+25,369 Shanghai, Jemursari,Chinese,Rice,Nasi Goreng 369 (Pork),72000,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+26,369 Shanghai, Jemursari,Chinese,Rice,Nasi Goreng Seafood,56400,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+27,369 Shanghai, Jemursari,Chinese,Rice,Nasi Goreng Smoke Ham,72000,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+28,369 Shanghai, Jemursari,Chinese,Rice,Nasi Putih,10800,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+29,369 Shanghai, Jemursari,Chinese,Rice,Nasi Goreng Chasiu,58800,,0,Babi,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+30,369 Shanghai, Jemursari,Chinese,Rice,Nasi Goreng Merah,54000,,0,Babi/Ayam,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+31,369 Shanghai, Jemursari,Chinese,Shanghai Dish,Kou Rou / Pork Belly,55200,,0,2 slices,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+32,369 Shanghai, Jemursari,Chinese,Shanghai Dish,Baikut Goreng,57600,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+33,369 Shanghai, Jemursari,Chinese,Shanghai Dish,Kaki Babi,52800,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+34,369 Shanghai, Jemursari,Chinese,Shanghai Dish,Chasiu Pork,62400,,0,100 gram,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+35,369 Shanghai, Jemursari,Chinese,Shanghai Dish,Kuping Babi,62400,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+36,369 Shanghai, Jemursari,Chinese,Shanghai Dish,Babat Hitam,62400,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+37,369 Shanghai, Jemursari,Chinese,Shanghai Dish,Sambal Mie,36000,,0,150Ml,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+38,369 Shanghai, Jemursari,Chinese,Vegetable,Cah Aneka Sayur,36000,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+39,369 Shanghai, Jemursari,Chinese,Egg,Telur Masak Ham,45599,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+40,369 Shanghai, Jemursari,Chinese,Egg,Telur Masak Sayur Asin,42000,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+41,369 Shanghai, Jemursari,Chinese,Egg,Telur Mata Sapi,10800,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+42,369 Shanghai, Jemursari,Chinese,Dessert,Ronde Kacang Tanah,36000,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+43,369 Shanghai, Jemursari,Chinese,Beverage,Cleo,12000,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+44,369 Shanghai, Jemursari,Chinese,369 Home Pack,Home Pack Sup Shanghai,144000,,0,isi 2 porsi,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+45,369 Shanghai, Jemursari,Chinese,369 Home Pack,Home Pack Tim Obat Ayam Kampung,117600,,0,isi 1 porsi,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+46,369 Shanghai, Jemursari,Chinese,369 Home Pack,Homepack Sambal,36000,,0,,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+47,369 Shanghai, Jemursari,Chinese,369 Home Pack,Home Pack Mie Zhajiang,103200,,0,isi 2 porsi,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+48,369 Shanghai, Jemursari,Chinese,369 Home Pack,Home Pack Song Mie,103200,,0,isi 2 porsi,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+49,369 Shanghai, Jemursari,Chinese,369 Home Pack,Home Pack Mie Ayam,94800,,0,isi 2 porsi,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+50,369 Shanghai, Jemursari,Chinese,369 Home Pack,Home Pack Tim Obat Ayam Hitam,145200,,0,isi 1 porsi,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+51,369 Shanghai, Jemursari,Chinese,369 Home Pack,Home Pack MIE POLOS,59400,,0,Isi 3 Porsi / Mie kuning,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+52,369 Shanghai, Jemursari,Chinese,369 Home Pack,Homepack Sandwich Tiongkok,79199,,0,isi 2 slice dan 2 bun,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+53,369 Shanghai, Jemursari,Chinese,369 Home Pack,Homepack Siomay,32400,,0,Isi 4 PCS,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+54,369 Shanghai, Jemursari,Chinese,369 Home Pack,Homepack Chasiew,116400,,0,Berat 200gram,Haram,4.4,"Blk. B Jl. Raya Jemursari No.101, Jemur Wonosari, Kec. Wonocolo, Surabaya, Jawa Timur 60237"
+55,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Rice,Beef And Mushroom,56800,,0,"Rice, Beef Patty, Mushrooms, Chilli, Coconut Milk, Garlic",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+56,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Rice,Shirataki Spicy Abon Cakalang,60800,,0,,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+57,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Coffee,Americano,34400,,0,Double Ristretto,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+58,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Coffee,Coffee Latte,42300,,0,"Double Ristretto, Fresh Milk, Milk Foam",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+59,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Coffee,Creme Brulee,47600,,0,"Double Ristretto, Steamed Fresh Milk, Milk Foam, Syrup, Torched",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+60,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Coffee,Capuccino,42300,,0,"Double Ristretto, Steamed Fresh Milk, Milk Foam",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+61,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Coffee,Flavored Latte,46200,,0,"Double Ristretto, Steamed Fresh Milk, Milk Foam, Your Choice Of Syrup",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+62,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Coffee,Black Jasmine,46200,,0,Black Coffee With Jasmine And Lemon Syrup,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+63,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Coffee,Ultra Violet,50000,,0,"double shot espresso, cream, lavender, rhum",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+64,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Coffee,Stargazing,50000,,0,"double shot espresso, lavender, raspberry, lemon, yakult",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+65,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Coffee,Iced Coffee,33000,,0,"Flavors : Vanilla, Caramel, Hazelnut, Aren",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+66,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Matcha,Matcha Ginger,47600,,0,"Matcha, Herbal Ginger Syrup, Soda Water",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+67,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Matcha,Matcha Latte,44800,,0,"Matcha, Steamed Fresh Milk, Milk Foam",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+68,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Matcha,Matcha Lemonade,47600,,0,"Matcha, Lemonade Syrup, Soda Water",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+69,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Waffle, Sandwich",Original Waffle,26400,,0,Plain Waffle,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+70,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Waffle, Sandwich",Tigers Feast,46200,,0,"sandwich, bolognese sauce, smoked beef, cheese",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+71,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Waffle, Sandwich",Magic Mushroom,43600,,0,"Sandwich, pesto, mushrooms, cheese",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+72,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Waffle, Sandwich",Choco Mallow,37000,,0,"Homemade Waffle, Whipped Cream, Nutella, Chocolate Sprinkles",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+73,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Waffle, Sandwich",Strawberry Cloud,37000,,0,"Homemade Waffle, Whipped Cream, Strawberry Jam, Marshmallow Bites",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+74,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Waffle, Sandwich",Matcha Crunchy,39600,,0,,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+75,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Chocolate,Chocolate Bar Korte,37000,,0,,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+76,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Chocolate,Chocolate Beverage,39600,,0,"Semi Sweet Dark Chocolate, Steamed Fresh Milk",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+77,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Pasta,Spicy Abon Cakalang,60800,,0,"Spaghetti, Abon Cakalang, Paprika, Olive Oil",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+78,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Pasta,Tom Yum Pasta,55500,,0,"Spaghetti, Galangal, Chilli, Lemon Zest, Dried Shrimp, Kafir Lime Leaf, Fish Tofu, Kani Stick",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+79,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Pasta,Meatballs Pasta,59400,,0,"Spaghetti, Meatball, Mozzarella, Tomato Puree, Garlic Bread Crumbs",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+80,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Pasta,Baked Macaroni,50200,,0,Baked Macaroni With Salmon,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+81,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Pasta,Salmon Pesto,59400,,0,"Pasta, Pesto Sauce, Salmon Chunks",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+82,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Sweets, Baked Goods",Pumpkin Spice Tiramisu,37000,,0,Tiramisu With Additional Kick Of Pumpkin Spice,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+83,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Sweets, Baked Goods",Vanilla Cookies,16500,,0,Moriarty Cookies Ooey Gooey Vanilla Cookies,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+84,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Sweets, Baked Goods",Dark Chocolate Brownies Square,19250,,0,Moriarty Cookies Large Size Fudgy Dark Chocolate Brownies Square,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+85,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Sweets, Baked Goods",Banana Bread,20000,,0,Moriarty Cookies Sliced Banana Bread,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+86,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Sweets, Baked Goods",Double Chocolate Cookies,16500,,0,Moriarty Cookies Ooey Gooey Dark Chocolate Cookies,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+87,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Sweets, Baked Goods",Kiji Elevated Choco Ishiya,19800,,0,Chocolate Bun,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+88,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Sweets, Baked Goods",Kiji Elevated Cinnamon Bun,22500,,0,Cinnamon Bun,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+89,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Sweets, Baked Goods",Kiji Elevated Garlic Cheese,30000,,0,Inspired By Korean Garlic Cheese Bread,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+90,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Rice,Beef And Mushroom,56800,,0,"Rice, Beef Patty, Mushrooms, Chilli, Coconut Milk, Garlic",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+91,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Rice,Shirataki Spicy Abon Cakalang,60800,,0,,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+92,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Coffee,Americano,34400,,0,Double Ristretto,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+93,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Coffee,Coffee Latte,42300,,0,"Double Ristretto, Fresh Milk, Milk Foam",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+94,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Coffee,Creme Brulee,47600,,0,"Double Ristretto, Steamed Fresh Milk, Milk Foam, Syrup, Torched",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+95,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Coffee,Capuccino,42300,,0,"Double Ristretto, Steamed Fresh Milk, Milk Foam",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+96,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Coffee,Flavored Latte,46200,,0,"Double Ristretto, Steamed Fresh Milk, Milk Foam, Your Choice Of Syrup",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+97,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Coffee,Black Jasmine,46200,,0,Black Coffee With Jasmine And Lemon Syrup,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+98,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Coffee,Ultra Violet,50000,,0,"double shot espresso, cream, lavender, rhum",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+99,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Coffee,Stargazing,50000,,0,"double shot espresso, lavender, raspberry, lemon, yakult",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+100,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Coffee,Iced Coffee,33000,,0,"Flavors : Vanilla, Caramel, Hazelnut, Aren",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+101,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Matcha,Matcha Ginger,47600,,0,"Matcha, Herbal Ginger Syrup, Soda Water",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+102,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Matcha,Matcha Latte,44800,,0,"Matcha, Steamed Fresh Milk, Milk Foam",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+103,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Matcha,Matcha Lemonade,47600,,0,"Matcha, Lemonade Syrup, Soda Water",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+104,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Waffle, Sandwich",Original Waffle,26400,,0,Plain Waffle,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+105,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Waffle, Sandwich",Tigers Feast,46200,,0,"sandwich, bolognese sauce, smoked beef, cheese",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+106,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Waffle, Sandwich",Magic Mushroom,43600,,0,"Sandwich, pesto, mushrooms, cheese",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+107,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Waffle, Sandwich",Choco Mallow,37000,,0,"Homemade Waffle, Whipped Cream, Nutella, Chocolate Sprinkles",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+108,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Waffle, Sandwich",Strawberry Cloud,37000,,0,"Homemade Waffle, Whipped Cream, Strawberry Jam, Marshmallow Bites",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+109,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Waffle, Sandwich",Matcha Crunchy,39600,,0,,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+110,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Chocolate,Chocolate Bar Korte,37000,,0,,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+111,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Chocolate,Chocolate Beverage,39600,,0,"Semi Sweet Dark Chocolate, Steamed Fresh Milk",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+112,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Pasta,Spicy Abon Cakalang,60800,,0,"Spaghetti, Abon Cakalang, Paprika, Olive Oil",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+113,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Pasta,Tom Yum Pasta,55500,,0,"Spaghetti, Galangal, Chilli, Lemon Zest, Dried Shrimp, Kafir Lime Leaf, Fish Tofu, Kani Stick",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+114,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Pasta,Meatballs Pasta,59400,,0,"Spaghetti, Meatball, Mozzarella, Tomato Puree, Garlic Bread Crumbs",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+115,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Pasta,Baked Macaroni,50200,,0,Baked Macaroni With Salmon,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+116,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,Pasta,Salmon Pesto,59400,,0,"Pasta, Pesto Sauce, Salmon Chunks",Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+117,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Sweets, Baked Goods",Pumpkin Spice Tiramisu,37000,,0,Tiramisu With Additional Kick Of Pumpkin Spice,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+118,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Sweets, Baked Goods",Vanilla Cookies,16500,,0,Moriarty Cookies Ooey Gooey Vanilla Cookies,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+119,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Sweets, Baked Goods",Dark Chocolate Brownies Square,19250,,0,Moriarty Cookies Large Size Fudgy Dark Chocolate Brownies Square,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+120,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Sweets, Baked Goods",Banana Bread,20000,,0,Moriarty Cookies Sliced Banana Bread,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+121,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Sweets, Baked Goods",Double Chocolate Cookies,16500,,0,Moriarty Cookies Ooey Gooey Dark Chocolate Cookies,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+122,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Sweets, Baked Goods",Kiji Elevated Choco Ishiya,19800,,0,Chocolate Bun,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+123,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Sweets, Baked Goods",Kiji Elevated Cinnamon Bun,22500,,0,Cinnamon Bun,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+124,AHA by Kudos,surabaya,Minuman/Kopi/Pizza & pasta,"Sweets, Baked Goods",Kiji Elevated Garlic Cheese,30000,,0,Inspired By Korean Garlic Cheese Bread,Halal,4.6,"Jl. Waterpark Boulevard, Made, Kec. Sambikerep, Kota SBY, Jawa Timur 60219, Indonesia"
+125,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Food,Chicken Fillet,24500,,0,"Pilihan Rasa: Original, Chili, Barbeque // Level: 1,2,3,4,5",Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+126,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Food,Kentang,19500,,0,"Pilihan Rasa: Original, Chili, Barbeque // Level: 1,2,3,4,5",Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+127,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Food,Siomay,22500,,0,"Pilihan Rasa: Original, Chili, Barbeque // Level: 1,2,3,4,5",Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+128,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Food,Nugget,22500,,0,"Pilihan Rasa: Original, Chili, Barbeque // Level: 1,2,3,4,5",Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+129,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Food,Chicken Skin,21500,,0,"Pilihan Rasa: Original, Chili, Barbeque // Level: 1,2,3,4,5",Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+130,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Food,Fish Skin,22500,,0,"Pilihan Rasa: Original, Chili, Barbeque // Level: 1,2,3,4,5",Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+131,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Food,Bakso,22500,,0,"Pilihan Rasa: Original, Chili, Barbeque // Level: 1,2,3,4,5",Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+132,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Food,Sosis Ayam,20000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+133,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Food,Ayam Pop,25500,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+134,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Food,Tahu walik,22500,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+135,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Food,Pasta CheeSe,1500,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+136,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Food,Tempura,21500,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+137,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Food,Krip Krip,13500,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+138,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Food,Tahu Crispy,16500,,0,"Pilihan Rasa: Original, Chili, Barbeque // Level: 1,2,3,4,5",Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+139,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Food,Jamur,19500,,0,"Pilihan Rasa: Original, Chili, Barbeque // Level: 1,2,3,4,5",Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+140,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Matcha Green Tea,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+141,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Strawberry  Milkshake,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+142,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Vanilla Milkshake,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+143,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Choco Milkshake,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+144,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Coffe Latte,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+145,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Mochacino Coffe Latte,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+146,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Cappuccino Coffe Latte,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+147,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Caramel Machiato,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+148,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Taro,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+149,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Choco Tiramisu,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+150,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Lychee Tea,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+151,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Mango Tea,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+152,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Strawberry Tea,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+153,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Red Velvet,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+154,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Bubble Gum,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+155,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Rainbow Jelly Toping,6000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+156,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Mango Boba Toping,6000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+157,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Original Milk Tea,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+158,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Thai Tea,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+159,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Lychee Milkshake,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+160,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Blackcurrant Milkshake,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+161,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Choco Caramel,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+162,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Mango Milkshake,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+163,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Choco Oreo,15000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+164,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Black Pearl Toping Boba,6000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+165,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Strawberry Boba Toping,6000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+166,Aiciro, BG Junction,Jajanan/Ayam & bebek/Minuman,Drink,Cream Cheese Toping,6000,,0,,Halal,3.5,"BG Junction Lantai LL, Jl. Bubutan No. 1- 7, Blok C50, Bubutan, Surabaya"
+167,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany P&W,Original,32500,,0,Original Pancake/Waffle,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+168,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany P&W,Strawberry Cheese,32500,,0,Strawberry Cheese Pancake/Waffle,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+169,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany P&W,Bluberry Cheese,32500,,0,Bluberry Cheese Pancake/Waffle,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+170,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany P&W,Strawberry,35000,,0,Strawberry Pancake/waffle,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+171,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany P&W,Oreo Cream,36000,,0,Oreo Cream Pancake/waffle,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+172,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany P&W,Chocomaltine,37500,,0,Chocomaltine Pancake/waffle,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+173,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany P&W,Banana Nutella,39000,,0,Banana Nutella Pancake/waffle,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+174,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany P&W,Caramel Banana Cream,35000,,0,Caramel Banana Raisin Pancake/waffle,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+175,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany P&W,Mango Peach,39000,,0,Mango Peach Banana Nutella Pancake/waffle,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+176,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany P&W,Superchoco,41500,,0,Superchoco Pancake/waffle,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+177,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany P&W,Bluberry Roll,41500,,0,Bluberry Roll Pancake/waffle,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+178,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany P&W,Strawberry Roll,41500,,0,Strawberry Roll Pancake/waffle,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+179,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany P&W,Lotus Crumble,41500,,0,Lotus Crumble Pancake/waffle,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+180,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany P&W,Pancake Tower,113000,,0,8 Pancake Dengan Saus Komplit,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+181,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany P&W,French Fries,29500,,0,Kentang Goreng,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+182,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany P&W,Potato Wedges,35000,,0,Kentang Goreng Wedges,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+183,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany P&W,Ice Cream 2 Scoop,26000,,0,Ice Cream Chocolate Dan Vanilla,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+184,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany Kitchen,Spaghetti Bolognesse,39000,,0,Pasta Spaghetti/Fettucini Dengan Saus Bolognesse,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+185,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany Kitchen,Spaghetti Aglio-Olio,39000,,0,Pasta Spaghetti/Fettucini Dengan Saus Aglio-Olio Pedas,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+186,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany Kitchen,Spaghetti Carbonara,39000,,0,Pasta Spaghetti/Fettucini Dengan Saus Carbonara,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+187,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany Kitchen,Spaghetti Chicken Pesto,39000,,0,Pasta Spaghetti/Fettucini  Dimasak Dengan Bumbu Paesto Dan  Ayam,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+188,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany Kitchen,Spaghetti Beef Blackpepper,42500,,0,Pasta Spaghetti/Fettucini Dengan Topping Daging Sapi Dan Saus Lada Hitam,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+189,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany Kitchen,Piccadilly Penne And Cheese,39000,,0,"Pasta Penne Dengan Saus Creame,Jamur Dan Daging Asap",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+190,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany Kitchen,Heddon Chicken Penne,42500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+191,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany Kitchen,Crazy Rice,36000,,0,Nasi Gila Dicampur Telur Dan Bakso,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+192,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany Kitchen,Crazy Fried Rice,36000,,0,Nasi Goreng Dicsmpur Telur Dan Bakso,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+193,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany Kitchen,Shinjuku Chicken Rice,42500,,0,Nasi Daging Ayam Bumbu Teriyaki Dan Telor,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+194,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany Kitchen,Ricechicken Black Pepper,42500,,0,Nasi Daging Ayam Dan Bumbu Black Pepper,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+195,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany Kitchen,Rice Chicken Salt&Chilli,42500,,0,Nasi Daging Ayam Dan Bumbu Cabe Garam,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+196,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany Kitchen,Shibuya Beef Rice,45500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+197,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany Kitchen,Rice Beef Carbonara,45500,,0,Nasi Daging Sapi Bumbu Carbonara Dan Telor,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+198,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany Kitchen,Shinjuku Beef Rice,45500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+199,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany Kitchen,Rice Beef Black Pepper,45500,,0,Nasi Daging Sapi Bumbu Lada Hitam Dan Telor,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+200,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany Kitchen,Buffalo Chicken Wings,32500,,0,Sayap Ayam Goreng Dengan Bumbu Pedas,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+201,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Many Pany Kitchen,Paranoid Chicken Wings,35000,,0,Sayap Ayam Goreng Tepung Dengan Bumbu Pedas,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+202,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Es Kopi Kompleks,31000,,0,"Espresso,Racikan Susu, Gula Aren",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+203,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Es Kopi Taren,24500,,0,"Espresso, Gula Aren",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+204,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Es Kosu Taren,27000,,0,"Espreso, Susu, Gula Aren",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+205,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Es Kosu Hazelnut,31000,,0,"Espresso, Racikan Susu, Sirup Hazelnut",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+206,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Hot Long Black,24500,,0,"Espresso, Air Panas",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+207,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Hot Cappucino,32500,,0,"Espresso, Susu, Foam",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+208,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Hot Latte,32500,,0,"Espresso, Susu, Foam",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+209,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Ice Long Black,24500,,0,"Espresso, Air Dingin,Es Batu",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+210,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Ice Cappucino,37500,,0,"Espresso,Susu,Es Batu",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+211,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Ice Latte,37500,,0,"Espresso, Susu, Es Batu",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+212,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Kopi Omah,24500,,0,"Kopi Robusta, Potongan Kayu Manis",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+213,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Orange On Top,32500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+214,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Hot Green Matcha,41000,,0,"Matcha Powder, Susu",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+215,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Ice Green Matcha,41500,,0,"Matcha Powder,Susu",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+216,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Tropicolla,26000,,0,"Hommade Sirup Rosella,Soda,Jus ManggaHommade Sirup Rosella,Soda,Jus Mangga",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+217,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Hot Taro Latte,32500,,0,Taro Powder Susu,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+218,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Ice Taro Latte,41500,,0,"Pure Taro, Susu",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+219,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Yellow Claw,32500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+220,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Dilan,26000,,0,"Siganture,Single Origin Arabika",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+221,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Galih Dan Ratna,29500,,0,Signature Blend 3 Single Origin,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+222,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Senandung Rindu,29500,,0,Signature Blend 3 Single Origin,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+223,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Cold Brew,46500,,0,Kopi Seduh Dingin Arabika,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+224,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Cold White,46500,,0,"Coldbrew,Racikan Susu, Gula Aren",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+225,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Kopi Kompleks,Cold White Hazelnut,46500,,0,"Coldbrew,Racikan Susu,Gula Aren,Sirup Hazelnut",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+226,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Soto Surabaya,Soto Ranjau,22000,,0,Soto Balungan Ayam,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+227,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Soto Surabaya,Soto Telur Rebus,22000,,0,Soto Telur Rebus,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+228,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Soto Surabaya,Soto Ayam,24500,,0,Soto Ayam,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+229,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Soto Surabaya,Soto Kulit,24500,,0,Soto Kulit,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+230,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Soto Surabaya,Soto Pisah Ayam/Kulit,28500,,0,Soto Pisah Ayam/Kulit,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+231,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Soto Surabaya,Soto Campur Telur Muda,29500,,0,Soto Campur Telur Muda,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+232,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Soto Surabaya,Soto Campur Jeroan,29500,,0,Soto Campur Jeroan,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+233,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Soto Surabaya,Soto Campur Pisah Telur Muda/Jeroan,32500,,0,Soto Campur Pisah Telur Muda/Jeroan,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+234,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Soto Surabaya,Tambahan 1,6500,,0,Tambahan 1,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+235,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Soto Surabaya,Tambahan 2,10000,,0,Tambahan 2,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+236,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Kimchi,15500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+237,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Danmuji,22000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+238,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Gimari,26000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+239,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Ttokkochi,28500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+240,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Mandu,32500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+241,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Kimbap,36000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+242,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Maeun Dakbal,39000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+243,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Eomuk Guk,45500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+244,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Ttoekbokki,45500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+245,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Cheese Ttoekbokki,49000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+246,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Chicken Chese Ttoekbokki,50500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+247,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Fried Chicken Wings,50500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+248,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Rabokki,52000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+249,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Korean Fishcake,58500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+250,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Korean Ramyeon,31000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+251,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Cheesy Kimchi Fried Rice,39000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+252,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Dakgalbi Rice,41500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+253,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Bibimbap,45500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+254,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Japchae,48000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+255,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Bulgogi Rice,48000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+256,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Jjampong,52000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+257,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Masitda,Jajangmyeon,45500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+258,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Sate Pak Siban,Sate Ayam Dada,39000,,0,Sate Daging Ayam Dada Dengan Bumbu Kacang,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+259,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Sate Pak Siban,Sate Ayam Kulit,39000,,0,Sate Daging Ayam Paha Dengan Bumbu Kacang,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+260,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Sate Pak Siban,Sate Ayam Ati,39000,,0,Sate Ati Ayam Degan Bumbu Kacang,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+261,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Sate Pak Siban,Sate Ayam Ampela,39000,,0,Sate Ampela Ayam Dengan Bumbu Kacang,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+262,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Sate Pak Siban,Sate Ayam Usus,39000,,0,Sate Usus Ayam Dengam Bumbu Kacang,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+263,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Sate Pak Siban,Sate Ayam Campur,39000,,0,"Sate Dada Ayam, Ati Ampela, Usus,kulit",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+264,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Sate Pak Siban,Nasi,6500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+265,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bebek Nok Nay,Ayam Goreng Serundeng,29500,,0,Ayam Goreng Dengan Topping Serundeng,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+266,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bebek Nok Nay,Ayam Goreng Ireng,29500,,0,Ayam Goreng Dengan Bumbu Ireng,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+267,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bebek Nok Nay,Ayam Goreng Abang,29500,,0,Ayam Goreng Dengan Bumbu Abang,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+268,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bebek Nok Nay,Nasi Ayam Goreng Serundeng,35000,,0,Nasi Ayam Goreng Dengan Topping Serundeng,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+269,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bebek Nok Nay,Nasi Ayam Goreng Ireng,35000,,0,Nasi Ayam Goreng Dengan Bumbu Ireng,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+270,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bebek Nok Nay,Nasi Ayam Goreng Abang,35000,,0,Nasi Ayam Goreng Abang Dengan Bumbu Abang,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+271,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bebek Nok Nay,Bebek Goreng Serundeng,32500,,0,Bebek Goreng Serundeng,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+272,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bebek Nok Nay,Bebek Goreng Ireng,32500,,0,Bebek Goreng Dengan Bumbu Ireng,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+273,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bebek Nok Nay,Bebek Goreng Abang,32500,,0,Bebek Goreng Dengan Bumbu Abang,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+274,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bebek Nok Nay,Nasi Bebek Goreng Serundeng,38000,,0,Nasi Bebek Goreng Dengan Topping Serundeng,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+275,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bebek Nok Nay,Nasi Bebek Goreng Ireng,38000,,0,Nasi Bebek Goreng Dengan Bumbu Ireng,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+276,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bebek Nok Nay,Nasi Bebek Goreng Abang,38000,,0,Nasi Bebek Goreng Dengan Bumbu Abang,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+277,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bebek Nok Nay,Nasi Putih,7500,,0,Tambahan Nasi Putih,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+278,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bebek Nok Nay,Rempelo Ati Bebek/Ayam,9000,,0,Tambahan Rempelo Ati Ayam/ Bebek,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+279,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Dimsum Mejiku,Lumpia Jepang,22000,,0,"Ayam, Udang & Kepiting",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+280,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Dimsum Mejiku,Wotiek,22000,,0,Ayam Udang & Kepiting,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+281,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Dimsum Mejiku,Tim Tahu,22000,,0,Ayam Udang Wortel Kucai,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+282,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Dimsum Mejiku,Siomay Volcano,22000,,0,Ayam Udang Cabai,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+283,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Dimsum Mejiku,Money Bag,22000,,0,Ayam Udang Sayur,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+284,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Dimsum Mejiku,Spring Roll,22000,,0,Ayam Udang,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+285,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Dimsum Mejiku,Lumpia Nori,22000,,0,Ayam Nori,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+286,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Dimsum Mejiku,Ebi Furai,22000,,0,Udang,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+287,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Dimsum Mejiku,Siomay Ayam,22000,,0,Ayam & Udang,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+288,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Dimsum Mejiku,Siomay Crab,22000,,0,Sapi & Udang,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+289,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Dimsum Mejiku,Keicak,22000,,0,Ayam Jamur Wortel,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+290,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Dimsum Mejiku,Siomay Moza,22000,,0,Ayam Udang Mozarella,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+291,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasgor Pak Huda,Nasi Goreng Jawa,23000,,0,"Nasi, Mie, Kol, Tauge",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+292,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasgor Pak Huda,Mie Goreng,24500,,0,"Mie,Tauge,Kol.Sawi",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+293,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasgor Pak Huda,Mie Nyemek,24500,,0,"Mie, Tauge,Kol,Sawi",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+294,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasgor Pak Huda,Mie Kuah,24500,,0,"Mie,Tauge,Kol,Sawi",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+295,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasgor Pak Huda,Nasi Krengsengan,27000,,0,"Nasi Putih, Mie, Kol, Tauge,Sawi",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+296,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasgor Pak Huda,Nasi Ayam,29500,,0,"Nasi Putih, Ayam Bumbu",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+297,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasgor Pak Huda,Nasi Goreng Jawa Spesial,31000,,0,"Nasi, Mie, Kol, Tauge,Telur",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+298,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasgor Pak Huda,Mie Kuah Spesial,32500,,0,"Mie,Tauge,Kol,Sawi,Telur",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+299,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasgor Pak Huda,Nasi Krengsengan Spesial,35000,,0,"Nasi,Mie,Kol,Sawi,Telur",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+300,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasgor Pak Huda,Nasi Ayam Spesial,37500,,0,"Nasi,Ayam Bumbu,Telur",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+301,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasi Cumi Madura,Nasi Rames,28500,,0,Nasi Lauk Telor Daging Mie Serundeng Sambel,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+302,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasi Cumi Madura,Nasi Tongkol,28500,,0,Nasi Lauk Tongkol Perkedel Tahu Bali Mie Serundeng Sambel,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+303,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasi Cumi Madura,Nasi Paru,28500,,0,Nasi Lauk Paru Perkedel Tahu Bali Mie Serundeng Sambel,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+304,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasi Cumi Madura,Nasi Paru Pedas,29500,,0,Nasi Lauk Pedas Perkedel Tahu Bali Mie Serundeng Sambel,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+305,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasi Cumi Madura,Nasi Empal,29500,,0,Nasi Lauk Empal Perkedel Tahu Bali Mie Serundeng Sambel,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+306,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasi Cumi Madura,Nasi Campur,37500,,0,Nasi Lauk Campur Perkedel Tahu Bali Mie Serundeng Sambel,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+307,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasi Cumi Madura,Nasi Madura,37500,,0,Nasi Lauk Madura Perkedel Tahu Bali Mie Serundeng Sambel,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+308,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasi Cumi Madura,Nasi Cumi,37500,,0,Nasi Lauk Cumi Perkedel Tahu Bali Mie Serundeng Sambel,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+309,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasi Cumi Madura,Nasi Cumi Spesial,63500,,0,Nasi Lauk Spesial Perkedel Tahu Bali Mie Serundeng Sambel,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+310,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasi Cumi Madura,"Tambahan 1 (Empal,Paru,Daging Bali, Tongkol,Udang)",10000,,0,Tambahan Lauk Udang) Perkedel Tahu Bali Mie Serundeng Sambel,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+311,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Nasi Cumi Madura,"Tamabahan 2 ( Telur, Perkedel,Dadar Jagung)",7500,,0,Tamabahan Lauk Jagung) Perkedel Tahu Bali Mie Serundeng Sambel,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+312,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Mie Pithik Bang Azat,Mie Original,19500,,0,Mie Dengan Topping Ayam,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+313,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Mie Pithik Bang Azat,Mie Jamur,23000,,0,Mie Dengan Topping Jamur,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+314,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Mie Pithik Bang Azat,Mie Ganas,23000,,0,Mie Dengan Topping Ayam Pedas,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+315,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Mie Pithik Bang Azat,Mie Ayam Jamur,23000,,0,Mie Dengan Topping Ayam Dan Jamur,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+316,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Mie Pithik Bang Azat,Mie Petir Jamur,24500,,0,Mie Dengan Topping Jamur Pedas,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+317,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Mie Pithik Bang Azat,Mie Paket 1,24500,,0,Mie Dengan Topping Ayam Dan Tambah 1 Topping,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+318,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Mie Pithik Bang Azat,Mie Paket 2,29500,,0,Mie Dengan Topping Ayam Dan Ditambah 2 Topping Porsi Jumbo,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+319,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Mie Pithik Bang Azat,Mie Jumbo,28500,,0,Mie Dengan Topping Ayam Dengan Porsi Jumbo,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+320,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Mie Pithik Bang Azat,Mie Jumbo Ganas,32500,,0,Mie Dengan Topping Ayam Pedas Dengan Porsi Jumbo,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+321,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Mie Pithik Bang Azat,Jumbo Paket 1,33500,,0,Mie Dengan Topping Ayam Dan Ditambah 1 Topping Porsi Jumbo,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+322,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Mie Pithik Bang Azat,Jumbo Paket 2,36000,,0,Mie Dengan Topping Ayam Dan Ditambah 2 Topping Porsi Jumbo,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+323,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Mie Pithik Bang Azat,Mie Campur,36000,,0,Mie Dengan Topping Campur,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+324,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Mie Pithik Bang Azat,Mie Pithik Istimewa,40000,,0,Mie Dengan Topping Campur Dan Puyuh,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+325,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Mie Pithik Bang Azat,Jumbo Campur,40000,,0,Mie Dengan Topping Campur Porsi Jumbo,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+326,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Mie Pithik Bang Azat,Mie Jumbo Istimewa,45500,,0,Mie Dengan Topping Campur Dan Puyuh Porsi Jumbo,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+327,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Mie Pithik Bang Azat,Tambahan A,7500,,0,"Ceker, Kepala, Bakso, Puyuh, Jamur, (Pilih Salah Satu)",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+328,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Mie Pithik Bang Azat,Tambahan B,15500,,0,"Ceker, Kepala, Bakso, Puyuh, Jamur, (Pilih 2 Saja)",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+329,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bubur Ayam Mang Dudung,Bubur Ayam Aja,22000,,0,Bubur Cakue Kripik Pangsit Ayam Suwir,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+330,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bubur Ayam Mang Dudung,Bubur Ampela,26000,,0,Bubur Cakue Kripik Pangsit Ayam Suwir Ati Ampela,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+331,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bubur Ayam Mang Dudung,Bubur Telur,29500,,0,Bubur Cakue Kripik Pangsit Ayam Suwir Ati Telur,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+332,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bubur Ayam Mang Dudung,Bubur Ayam Spesial,35000,,0,Bubur Cakue Kripik Pangsit Ayam Suwir Ati Spesial,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+333,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bubur Ayam Mang Dudung,Bubur Spesial Jumbo Ori,37500,,0,Bubur Cakue Kripik Pangsit Ayam Suwir,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+334,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bubur Ayam Mang Dudung,Bubur Spesial Jumbo Telur,39000,,0,Bubur Cakue Kripik Pangsit Ayam Suwir Ati Telur,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+335,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bubur Ayam Mang Dudung,Bubur Spesial Jumbo,41500,,0,Bubur Cakue Kripik Pangsit Ayam Suwir Ati Jumbo,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+336,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Bubur Ayam Mang Dudung,Tambah Ati Ampela,7500,,0,Tambah Ati Ampela,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+337,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Batagor Kabita,Batagor,22000,,0,"Siomay Goreng, Tahu Goreng",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+338,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Batagor Kabita,Siomay,23000,,0,"Siomay, Tahu, Kentang, Kubis",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+339,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Batagor Kabita,Siomay & Batagor Campur,26000,,0,"Siomay, Tahu, Kentang, Kubis, Batagor, Telor",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+340,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Batagor Kabita,Batagor Siomay Spesial,33500,,0,"Siomay, Tahu, Kentang, Kubis,. Tahu Susu, Batagor, Telor",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+341,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Batagor Kabita,BATAGOR SPESIAL,24500,,0,Siomay Goreng Dan Tahu Susu Goreng,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+342,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Batagor Kabita,SIOMAY SPESIAL,24500,,0,"Siomay, Tahu, Kentang, Kubis, Telor",Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+343,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Aiola Bar,Es Tea,10000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+344,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Aiola Bar,Es Tea Jumbo,13000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+345,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Aiola Bar,Teh Tarik,19500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+346,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Aiola Bar,Lemon Tea,19500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+347,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Aiola Bar,Lecy Tea,23000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+348,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Aiola Bar,Peach Tea,23000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+349,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Aiola Bar,Es Jeruk Nipis,10000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+350,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Aiola Bar,Green Tea,23000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+351,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Aiola Bar,Honey Lime Squash,19500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+352,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Aiola Bar,Blue Ocean,19500,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+353,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Aiola Bar,Mango Yakult,26000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+354,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Aiola Bar,Lychee Yakult,26000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+355,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Aiola Bar,Mineral Water,10000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+356,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Aiola Bar,Es Jeruk Manis,13000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+357,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi/Sate,Aiola Bar,Thai Tea,23000,,0,,Halal,4.5,"Jl. Dr. Ir. H. Soekarno No. 322, Rungkut, Surabaya"
+358,Amanda Brownies, Tegalsari,Roti/Jajanan,Paket Cheese,Paket Cheese,146000,,0,Paket cheese adalam pembelian 2 box brownies kukus cream cheese berhadiah totebag,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+359,Amanda Brownies, Tegalsari,Roti/Jajanan,Cookies,Sagu Keju,60000,,0,Cookies citarasa khas Amanda dengan rasa sagu keju,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+360,Amanda Brownies, Tegalsari,Roti/Jajanan,Cookies,Nastar Original,60000,,0,Cookies citarasa khas Amanda jenis nastar dengan selai yang segar,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+361,Amanda Brownies, Tegalsari,Roti/Jajanan,Cookies,Nastar Greentea,60000,,0,Cookies citarasa khas Amanda jenis nastar rasa greentea dengan selai yang segar,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+362,Amanda Brownies, Tegalsari,Roti/Jajanan,Cookies,Palm Cheese,60000,,0,Cookies citarasa khas Amanda dengan rasa keju yang dikombinasi dengan  gula merah pilihan,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+363,Amanda Brownies, Tegalsari,Roti/Jajanan,Cookies,Putri Salju Kacang,60000,,0,Cookies citarasa khas Amanda jenis puteri salju kacang,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+364,Amanda Brownies, Tegalsari,Roti/Jajanan,Cookies,Kastengels,60000,,0,Cookies citarasa khas Amanda jenis kastengels keju dengan bahan premium,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+365,Amanda Brownies, Tegalsari,Roti/Jajanan,Cookies,Crunchy Choco,60000,,0,Cookies citarasa khas Amanda perpaduan cookies crunchhy keju dengan coklat melted,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+366,Amanda Brownies, Tegalsari,Roti/Jajanan,Cookies,Choco Almond,60000,,0,Cookies citarasa khas Amanda dengan rasa coklat yang dipadukan dengan kacang almond,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+367,Amanda Brownies, Tegalsari,Roti/Jajanan,Premium,Original Ganache,66000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+368,Amanda Brownies, Tegalsari,Roti/Jajanan,Brownies,Brownies Original,45000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+369,Amanda Brownies, Tegalsari,Roti/Jajanan,Brownies,Brownies Greentea Mint,52000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+370,Amanda Brownies, Tegalsari,Roti/Jajanan,Brownies,Brownies Strawberry,52000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+371,Amanda Brownies, Tegalsari,Roti/Jajanan,Brownies,Brownies Cappucino Marble,54500,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+372,Amanda Brownies, Tegalsari,Roti/Jajanan,Brownies,Brownies Choco Marble,54500,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+373,Amanda Brownies, Tegalsari,Roti/Jajanan,Brownies,Brownies Cheese Cream,78500,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+374,Amanda Brownies, Tegalsari,Roti/Jajanan,Brownies,Brownies Pink Marble,54500,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+375,Amanda Brownies, Tegalsari,Roti/Jajanan,Brownies,Brownies Tiramisu Marble,54500,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+376,Amanda Brownies, Tegalsari,Roti/Jajanan,Brownies,Brownies Bakar,49500,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+377,Amanda Brownies, Tegalsari,Roti/Jajanan,Brownies,Brownies Tiramisu,63500,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+378,Amanda Brownies, Tegalsari,Roti/Jajanan,Brownies,Brownies Kering,43000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+379,Amanda Brownies, Tegalsari,Roti/Jajanan,Brownies,Brownies Blueberry,54500,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+380,Amanda Brownies, Tegalsari,Roti/Jajanan,Brownies,Bolu Pandan,38000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+381,Amanda Brownies, Tegalsari,Roti/Jajanan,Brownies,Brownies Green Marble,44000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+382,Amanda Brownies, Tegalsari,Roti/Jajanan,Keripik Amanda,Keripik Pisang Keju,18000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+383,Amanda Brownies, Tegalsari,Roti/Jajanan,Keripik Amanda,Keripik Pisang Original,18000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+384,Amanda Brownies, Tegalsari,Roti/Jajanan,Keripik Amanda,Keripik Pisang Coklat,18000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+385,Amanda Brownies, Tegalsari,Roti/Jajanan,Snacks,Keripik Kentang Pedas,21000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+386,Amanda Brownies, Tegalsari,Roti/Jajanan,Snacks,Bangket Duo,31000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+387,Amanda Brownies, Tegalsari,Roti/Jajanan,Snacks,Soes Kering,42000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+388,Amanda Brownies, Tegalsari,Roti/Jajanan,Snacks,Sweet Stick,36000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+389,Amanda Brownies, Tegalsari,Roti/Jajanan,Snacks,Cheese Roll,59000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+390,Amanda Brownies, Tegalsari,Roti/Jajanan,Snacks,Bangket Mutiara,31000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+391,Amanda Brownies, Tegalsari,Roti/Jajanan,Snacks,Keripik Kentang Keju,21000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+392,Amanda Brownies, Tegalsari,Roti/Jajanan,Snacks,Peanut Butter,45000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+393,Amanda Brownies, Tegalsari,Roti/Jajanan,Snacks,Pisang Bolen Keju,56500,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+394,Amanda Brownies, Tegalsari,Roti/Jajanan,Snacks,Pisang Bolen Coklat,56500,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+395,Amanda Brownies, Tegalsari,Roti/Jajanan,Snacks,Molen Nanas,45000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+396,Amanda Brownies, Tegalsari,Roti/Jajanan,Snacks,Cheese Stick,52000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+397,Amanda Brownies, Tegalsari,Roti/Jajanan,Pastry,BOLEN KACANG HIJAU,52000,,0,,Halal,5,"Jl. Diponegoro No. 182, Tegalsari, Surabaya"
+398,Aneka Bothok, Sukolilo,Aneka nasi,Bothok,Bothok Jeroan / Ati,12000,9000,1,Jeroan / ati goreng di kukus dengan bumbu pedas tanpa kelapa dengan bungkus daun pisang,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+399,Aneka Bothok, Sukolilo,Aneka nasi,Bothok,Bothok Tawon,12000,9000,1,Sarang Lebah di kukus dengan Bumbu Pedas tanpa kelapa dengan bungkus daun pisang,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+400,Aneka Bothok, Sukolilo,Aneka nasi,Bothok,Bothok Kutuk,9000,,0,Kutuk Goreng di kukus dengan Bumbu Pedas tanpa kelapa dengan bungkus daun pisang,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+401,Aneka Bothok, Sukolilo,Aneka nasi,Bothok,Bothok Patin,9000,,0,ikan Patin di kukus dengan Bumbu Pedas tanpa kelapa dengan bungkus daun pisang,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+402,Aneka Bothok, Sukolilo,Aneka nasi,Bothok,Bothok Jamur,9000,,0,Jamur Tiram di kukus dengan Bumbu Pedas tanpa kelapa dengan bungkus daun pisang,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+403,Aneka Bothok, Sukolilo,Aneka nasi,Bothok,Bothok Tahu Tempe,12000,9000,1,Tahu dan Tempe di kukus dengan Bumbu Pedas dengan kelapa dan di bungkus daun pisang,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+404,Aneka Bothok, Sukolilo,Aneka nasi,Bothok,Bothok Lele,9000,,0,Lele Goreng di kukus dengan Bumbu Pedas tanpa kelapa dengan bungkus daun pisang,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+405,Aneka Bothok, Sukolilo,Aneka nasi,Bothok,Bothok Kerang,9000,,0,Kerang Rebus di kukus dengan Bumbu Pedas tanpa kelapa dengan bungkus daun pisang,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+406,Aneka Bothok, Sukolilo,Aneka nasi,Bothok,Bothok Telor Asin,12000,9000,1,Telor Asin di kukus dengan Bumbu Pedas tanpa kelapa dengan bungkus daun pisang,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+407,Aneka Bothok, Sukolilo,Aneka nasi,Bothok,Bothok Udang,12000,9000,1,Udang di kukus dengan bumbu pedas tanpa kelapa dengan bungkus daun pisang,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+408,Aneka Bothok, Sukolilo,Aneka nasi,Bothok,Bothok Cumi Cumi,9000,,0,Cumi Rebus di kukus dengan Bumbu Pedas tanpa kelapa dengan bungkus daun pisang,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+409,Aneka Bothok, Sukolilo,Aneka nasi,Bothok,Bothok Tongkol,12000,9000,1,Tongkol di kukus dengan bumbu pedas tanpa kelapa dengan bungkus daun pisang,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+410,Aneka Bothok, Sukolilo,Aneka nasi,Bothok,Bothok Ikan Tuna,9000,,0,Ikan Tuna di kukus dengan Bumbu Pedas tanpa kelapa dengan bungkus daun pisang,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+411,Aneka Bothok, Sukolilo,Aneka nasi,PAKET COMBO,Nasi Pecel + Telur Dadar + Es Teh,19000,17100,1,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+412,Aneka Bothok, Sukolilo,Aneka nasi,PAKET COMBO,Nasi Pecel + Ayam Goreng + Es Teh,19000,17100,1,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+413,Aneka Bothok, Sukolilo,Aneka nasi,PAKET COMBO,Nasi Campur + Telur Dadar + Es Teh,19000,17100,1,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+414,Aneka Bothok, Sukolilo,Aneka nasi,PAKET COMBO,Nasi Campur + Ayam Goreng + Es Teh,19000,17100,1,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+415,Aneka Bothok, Sukolilo,Aneka nasi,PAKET COMBO,Paket Combo Nasi Sayur Asem + Telur Dadar + Es Teh,19000,17100,1,Nasi + Sayur Asem + Telur + Es Teh,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+416,Aneka Bothok, Sukolilo,Aneka nasi,PAKET COMBO,Paket Combo Nasi Pecel + Tongkol Sarden + Es Teh,19000,17100,1,Nasi Pecel + Tongkol + Es Teh,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+417,Aneka Bothok, Sukolilo,Aneka nasi,PAKET COMBO,Paket Combo Nasi Campur + Tongkol Sarden + Es Teh,19000,17100,1,Nasi Campur + Tongkol + Es Teh,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+418,Aneka Bothok, Sukolilo,Aneka nasi,PAKET COMBO,Paket Combo Nasi Sayur Lodeh + Telur Dadar + Es Teh,19000,17100,1,Nasi + Lodeh + Telur + Es Teh,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+419,Aneka Bothok, Sukolilo,Aneka nasi,PAKET COMBO,Paket Combo Nasi Bothok Tahu Tempe + Es Teh,18000,,0,Nasi + Bothok + Es Teh,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+420,Aneka Bothok, Sukolilo,Aneka nasi,PAKET COMBO,Paket Combo Bothok Rempelo Ati + Es Teh,18000,,0,Nasi + Bothok + Es Teh,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+421,Aneka Bothok, Sukolilo,Aneka nasi,PAKET COMBO,Nasi Kare Ayam + Es Teh,19000,17100,1,Nasi + Kare Ayam + Es Teh,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+422,Aneka Bothok, Sukolilo,Aneka nasi,PAKET COMBO,Nasi Campur Ayam Crispy + Es Teh,21000,18900,1,Nasi Campur + Ayam Crispy + Es Teh,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+423,Aneka Bothok, Sukolilo,Aneka nasi,PAKET COMBO,Nasi Pecel Ayam Crispy + Es Teh,21000,18900,1,Nasi Pecel + Ayam Crispy + Es Teh,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+424,Aneka Bothok, Sukolilo,Aneka nasi,PAKET COMBO,Paket Combo Nasi Sayur Sop + Ayam Goreng + Es Teh,19000,17100,1,Nasi + Sop + Ayam + Es Teh,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+425,Aneka Bothok, Sukolilo,Aneka nasi,PAKET COMBO,Paket Combo Bothok Udang + Es Teh,18000,,0,Nasi + Bothok + Es Teh,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+426,Aneka Bothok, Sukolilo,Aneka nasi,PAKET COMBO,Nasi Kare Telur + Es Teh,19000,17100,1,Nasi + Telur + Es Teh,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+427,Aneka Bothok, Sukolilo,Aneka nasi,Sayur,Asem,5000,,0,"Sayur Kangkung,Timun,Kacang panjang",Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+428,Aneka Bothok, Sukolilo,Aneka nasi,Sayur,Bayam,5000,,0,"Sayur Bayam,Manisa",Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+429,Aneka Bothok, Sukolilo,Aneka nasi,Sayur,Bobor,5000,,0,Sayur Bayam Bersantan,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+430,Aneka Bothok, Sukolilo,Aneka nasi,Sayur,Lodeh,5000,,0,Sayur Santan Pedas,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+431,Aneka Bothok, Sukolilo,Aneka nasi,Sayur,Sop,5000,,0,"Sayur Wortel,Buncis,Kubis,Kentang",Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+432,Aneka Bothok, Sukolilo,Aneka nasi,Sayur,Tumis Kangkung,5000,,0,Kangkung Pedas,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+433,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Lele,6000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+434,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Telor,6000,,0,Telor Ceplok/Dadar/Bali,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+435,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Sambel Teri-Terong,6000,,0,Sambel Teri-Terong,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+436,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Dadar Jagung,2000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+437,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Ayam Kare,6000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+438,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Tongkol Sarden,6000,,0,Tongkol Berbumbu Tomat,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+439,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Tempe,2000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+440,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Pindang,6000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+441,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Ayam Goreng,6000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+442,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Ayam Kecap,6000,,0,Ayam Berbumbu Kecap,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+443,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Kulit Sapi/Cecek,6000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+444,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Tahu Goreng,3000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+445,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Perkedel,3000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+446,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Peyek,3000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+447,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Ikan Asin,3000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+448,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Sate Jeroan,6000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+449,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Telor Asin,7000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+450,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Krupuk,2000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+451,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Ayam Crispy,8000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+452,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Ote-Ote (Bakwan Sayur),1500,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+453,Aneka Bothok, Sukolilo,Aneka nasi,Lauk Pauk,Udang Goreng Tusuk,8000,,0,Udang Isi 4bj,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+454,Aneka Bothok, Sukolilo,Aneka nasi,Minuman,Es Tea,5000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+455,Aneka Bothok, Sukolilo,Aneka nasi,Minuman,Es Marimas,2500,,0,Jeruk/Jambu/Anggur/Kelapa/Sirsak,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+456,Aneka Bothok, Sukolilo,Aneka nasi,Minuman,Es Jeruk,6000,,0,Hangat/Es,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+457,Aneka Bothok, Sukolilo,Aneka nasi,Minuman,Air Mineral Club,5000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+458,Aneka Bothok, Sukolilo,Aneka nasi,Minuman,Teh Hangat,5000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+459,Aneka Bothok, Sukolilo,Aneka nasi,Minuman,Teh Sisri Gula Batu,2500,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+460,Aneka Bothok, Sukolilo,Aneka nasi,Minuman,Teh Pucuk Harum 360ml,6000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+461,Aneka Bothok, Sukolilo,Aneka nasi,Nasi,Nasi Putih,6500,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+462,Aneka Bothok, Sukolilo,Aneka nasi,Nasi,Nasi Pecel Ayam,15000,,0,Ayam Goreng/Kecap/Kare,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+463,Aneka Bothok, Sukolilo,Aneka nasi,Nasi,Nasi Campur Ayam,15000,,0,Ayam Goreng/Kecap/Kare,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+464,Aneka Bothok, Sukolilo,Aneka nasi,Nasi,Nasi Pecel Telur,15000,,0,Dadar/Ceplok/Bali,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+465,Aneka Bothok, Sukolilo,Aneka nasi,Nasi,Nasi Campur Telur,15000,,0,Dadar/Ceplok/Bali,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+466,Aneka Bothok, Sukolilo,Aneka nasi,Nasi,Nasi Sayur Asem + Bothok Patin,17000,,0,Nasi + Sayur Asem + Bothok,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+467,Aneka Bothok, Sukolilo,Aneka nasi,Nasi,Nasi Pecel Ayam Crispy,17000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+468,Aneka Bothok, Sukolilo,Aneka nasi,Nasi,Nasi Campur Ayam Crispy,17000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+469,Aneka Bothok, Sukolilo,Aneka nasi,Nasi,Nasi Pecel Udang Goreng,17000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+470,Aneka Bothok, Sukolilo,Aneka nasi,Nasi,Nasi Campur Udang Goreng,17000,,0,,Halal,4.5,"Jl. Nginden 2 No.47, Sukolilo, Surabaya"
+471,Bandeng Karimanasi,surabaya,Aneka nasi/Cepat saji/Seafood,Bandeng Karimanasi,Goreng Otak Otak Bandeng,49000,46000,1,Otak otak bandeng di goreng balut telur mantap,Halal,4.7,tambak medokan ayu XI C1 no 8
+472,Bandeng Karimanasi,surabaya,Aneka nasi/Cepat saji/Seafood,Bandeng Karimanasi,BEKU Otak Otak Bandeng,37000,,0,"Otak otak bandeng matang yg di bekukan, cocok untuk oleh oleh dan stok kulkas",Halal,4.7,tambak medokan ayu XI C1 no 8
+473,Bandeng Karimanasi,surabaya,Aneka nasi/Cepat saji/Seafood,Bandeng Karimanasi,GORENG Presto Bandeng Medium Isi 4,46000,,0,Bandeng presto medium isi 4 ekor di goreng balut telur,Halal,4.7,tambak medokan ayu XI C1 no 8
+474,Bandeng Karimanasi,surabaya,Aneka nasi/Cepat saji/Seafood,Bandeng Karimanasi,BEKU Presto Bandeng Medium isi 4,37000,,0,Presto Bandeng matang dalam kondisi beku yg cocok buat oleh oleh dan stok kulkas,Halal,4.7,tambak medokan ayu XI C1 no 8
+475,Bandeng Karimanasi,surabaya,Aneka nasi/Cepat saji/Seafood,Bandeng Karimanasi,Beku Bandeng Bakar Cabut Duri,45000,42000,1,Bandeng cabut duri di bakar dengan bumbu merah sedap,Halal,4.7,tambak medokan ayu XI C1 no 8
+476,Bandeng Karimanasi,surabaya,Aneka nasi/Cepat saji/Seafood,Bandeng Karimanasi,Goreng Presto Bandeng Besar Isi 2,51000,48000,1,Di goreng balut telur,Halal,4.7,tambak medokan ayu XI C1 no 8
+477,Bandeng Karimanasi,surabaya,Aneka nasi/Cepat saji/Seafood,Bandeng Karimanasi,Goreng Otak Otak Bandeng,49000,46000,1,Otak otak bandeng di goreng balut telur mantap,Halal,4.7,tambak medokan ayu XI C1 no 8
+478,Bandeng Karimanasi,surabaya,Aneka nasi/Cepat saji/Seafood,Bandeng Karimanasi,BEKU Otak Otak Bandeng,37000,,0,"Otak otak bandeng matang yg di bekukan, cocok untuk oleh oleh dan stok kulkas",Halal,4.7,tambak medokan ayu XI C1 no 8
+479,Bandeng Karimanasi,surabaya,Aneka nasi/Cepat saji/Seafood,Bandeng Karimanasi,GORENG Presto Bandeng Medium Isi 4,46000,,0,Bandeng presto medium isi 4 ekor di goreng balut telur,Halal,4.7,tambak medokan ayu XI C1 no 8
+480,Bandeng Karimanasi,surabaya,Aneka nasi/Cepat saji/Seafood,Bandeng Karimanasi,BEKU Presto Bandeng Medium isi 4,37000,,0,Presto Bandeng matang dalam kondisi beku yg cocok buat oleh oleh dan stok kulkas,Halal,4.7,tambak medokan ayu XI C1 no 8
+481,Bandeng Karimanasi,surabaya,Aneka nasi/Cepat saji/Seafood,Bandeng Karimanasi,Beku Bandeng Bakar Cabut Duri,45000,42000,1,Bandeng cabut duri di bakar dengan bumbu merah sedap,Halal,4.7,tambak medokan ayu XI C1 no 8
+482,Bandeng Karimanasi,surabaya,Aneka nasi/Cepat saji/Seafood,Bandeng Karimanasi,Goreng Presto Bandeng Besar Isi 2,51000,48000,1,Di goreng balut telur,Halal,4.7,tambak medokan ayu XI C1 no 8
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+2417,Dopota, Pucang,Sweets/Cepat saji/Roti,Donat Mini,Mini,5000,,0,Donat Mini Aneka Pilihan Rasa,Halal,4.5,Jl Yos Sudarso No. 14
+2418,Dopota, Pucang,Sweets/Cepat saji/Roti,Donat Mini,Isi 6,25000,,0,Pilihan Aneka Rasa Donat Isi 6,Halal,4.5,Jl Yos Sudarso No. 14
+2419,Dopota, Pucang,Sweets/Cepat saji/Roti,Donat Mini,Isi 10,40000,,0,Donat Aneka Pilihan Rasa Mix Isi 10,Halal,4.5,Jl Yos Sudarso No. 14
+2420,Dopota, Pucang,Sweets/Cepat saji/Roti,Donat Reguler,Reguler,7000,,0,,Halal,4.5,Jl Yos Sudarso No. 14
+2421,Dopota, Pucang,Sweets/Cepat saji/Roti,Donat Reguler,Paket Isi 6,35000,,0,,Halal,4.5,Jl Yos Sudarso No. 14
+2422,Dopota, Pucang,Sweets/Cepat saji/Roti,Minuman,Hayco Choco Original,10000,,0,,Halal,4.5,Jl Yos Sudarso No. 14
+2423,Dopota, Pucang,Sweets/Cepat saji/Roti,Minuman,Hayco Choco Cream,10000,,0,,Halal,4.5,Jl Yos Sudarso No. 14
+2424,Dopota, Pucang,Sweets/Cepat saji/Roti,Minuman,Hayco Choco Vanilla,10000,,0,,Halal,4.5,Jl Yos Sudarso No. 14
+2425,Dopota, Pucang,Sweets/Cepat saji/Roti,Minuman,Hayco Choco Cappucino,10000,,0,,Halal,4.5,Jl Yos Sudarso No. 14

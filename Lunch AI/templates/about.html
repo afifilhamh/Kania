@@ -1,0 +1,83 @@
+<!-- about.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About Kania</title>
+  <!-- Gunakan style.css yang sama agar layout konsisten -->
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div class="main-container">
+    <!-- Toggle button for minimized state -->
+    <button id="toggle-sidebar" class="toggle-sidebar-button">≡</button>
+
+    <!-- Sidebar -->
+    <aside class="sidebar-container">
+      <!-- Mini Sidebar -->
+      <div class="mini-sidebar">
+        <img src="/static/logo-kania.png" alt="Logo" class="mini-logo" data-tooltip="About Kania"/>
+        <button id="open-sidebar" class="open-sidebar-button" data-tooltip="Open sidebar">☰</button>
+        <button id="mini-new-chat" class="mini-new-chat-button" data-tooltip="New chat">+</button>
+    </div>
+
+      <!-- Main Sidebar -->
+      <div class="main-sidebar">
+        <div class="sidebar-header">
+          <img src="/static/logo2-kania.png" alt="Logo" class="mini-logo-2" data-tooltip="About Kania"/>
+          <button id="close-sidebar" class="close-sidebar-button" data-tooltip="Close sidebar">×</button>
+        </div>
+
+        <!-- Boleh menambahkan menu lain atau tetap menampilkan chat-rooms kosong -->
+        <ul id="chat-rooms">
+          <li class="chat-room-item" data-room-id="home">
+            <span class="room-name">Go to Home</span>
+          </li>
+        </ul>
+      </div>
+    </aside>
+
+    <!-- Section Utama: ABOUT PAGE -->
+    <section class="chat-container">
+      <header class="chat-header">
+        <!-- Contoh header Halaman About -->
+        <h1>About Kania</h1>
+        <h3>Get to know more about your lunch recommendation AI!</h3>
+      </header>
+
+      <div id="chat-wrapper">
+        <!-- Konten “About” di sini -->
+        <div class="chatbox-about" style="padding: 20px; overflow-y:auto;">
+          <p style="text-align: justify;">
+            <strong style="color: rgb(10, 61, 126);">Kania</strong> also known as Kawan Makan Siang Anda, is an innovative food recommendation chatbot designed to enhance your dining experience by providing personalized meal suggestions. Utilizing advanced algorithms and machine learning models, <strong style="color: rgb(10, 61, 126);">Kania</strong> aims to simplify the decision-making process for users when it comes to choosing meals.
+            <br><br>
+            One of the main challenges faced by GoFood users is the lack of an intelligent and responsive recommendation system. While GoFood boasts a plethora of restaurants and menus, users frequently find themselves overwhelmed by the sheer number of choices available. Not to mention, GoFood's recommendation system is based on food that is viral or trending at that time, which for some users is not very ideal, considering not every user wants viral food or is tired of the same viral food that they have already ordered.
+            <br><br>
+            That's why Kawan Makan Siang Anda, or <strong style="color: rgb(10, 61, 126);">Kania</strong>, exists to address this issue by offering personalized food recommendations based on what you want. <strong style="color: rgb(10, 61, 126);">Kania</strong> is designed to understand your preferences and provide relevant suggestions, ensuring that you enjoy meals that suit your taste and needs. With <strong style="color: rgb(10, 61, 126);">Kania</strong>, you not only receive specific food recommendations tailored to you but also an engaging and interactive experience.
+            <br><br>
+            Enjoy the experience of finding lunch recommendations interactively with <strong style="color: rgb(10, 61, 126);">Kania</strong>.
+        </p>            
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- Gunakan script.js yang sama agar fungsionalitas layout sidebar tetap -->
+  <script src="/static/script.js"></script>
+  <script>
+  // Arahkan mini-logo ke halaman index.html bila diklik
+  document.querySelector(".mini-logo").addEventListener("click", () => {
+    window.location.href = "/";
+  });
+
+  // Tambahkan event click pada li "Go to Home"
+  const homeItem = document.querySelector('[data-room-id="home"]');
+  if (homeItem) {
+    homeItem.addEventListener("click", () => {
+      window.location.href = "/";
+    });
+  }
+  </script>
+</body>
+</html>

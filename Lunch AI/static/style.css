@@ -1,0 +1,609 @@
+/* Global Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f9fafc;
+    line-height: 1.6;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* Main Container */
+.main-container {
+    display: flex;
+    transition: margin-left 0.3s ease;
+    max-width: 100%;
+    margin: 0; /* Ubah margin menjadi 0 agar gambar menutupi seluruh area */
+    padding: 0; /* Ubah padding menjadi 0 agar gambar menutupi seluruh area */
+    height: 100vh;
+    box-sizing: border-box;
+    overflow-y: auto;
+    background-color: #ffffff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* Sidebar Container */
+.sidebar-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    z-index: 1000;
+    display: flex;
+    transition: width 0.3s ease;
+    background: #ffffff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Mini Sidebar Styles */
+.mini-sidebar {
+    width: 60px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 10px;
+    gap: 20px;
+    border-right: 1px solid #eee;
+}
+
+.mini-sidebar.hidden {
+    display: none;
+}
+
+.mini-logo {
+    width: 40px;
+    height: 40px;
+    position: relative; /* Menjadikan pseudo-element sebagai posisi relatif terhadap elemen ini */
+    display: inline-block; /* Opsional: memastikan elemen berperilaku seperti blok */
+}
+
+/* Tooltip untuk mini-logo */
+.mini-logo[data-tooltip]:hover::after {
+    content: attr(data-tooltip); /* Tampilkan teks tooltip */
+    position: absolute;
+    top: 17%;
+    left: 90%;
+    transform: translateY(-50%);
+    background-color: #333;
+    color: #fff;
+    padding: 13px 12px;
+    border-radius: 5px;
+    font-size: 14px;
+    white-space: nowrap;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+/* Awalnya tersembunyi */
+.mini-logo[data-tooltip]:not(:hover)::after {
+    opacity: 0;
+    visibility: hidden;
+}
+
+
+.mini-logo-2 {
+    width: 100px;
+    height: 50px;
+}
+
+
+.open-sidebar-button,
+.mini-new-chat-button,
+.close-sidebar-button {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: #0a3d7e;
+
+}
+
+.open-sidebar-button:hover,
+.mini-new-chat-button:hover,
+.close-sidebar-button:hover {
+    color: #0056b3;
+}
+
+/* Tooltip styling */
+.open-sidebar-button[data-tooltip]:hover::after {
+    content: attr(data-tooltip); /* Show the tooltip text */
+    position: absolute;
+    top: 17%;
+    left: 90%;
+    transform: translateY(-50%);
+    background-color: #333;
+    color: #fff;
+    padding: 13px 12px;
+    border-radius: 5px;
+    font-size: 14px;
+    white-space: nowrap;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+/* Initially hidden */
+.open-sidebar-button[data-tooltip]:not(:hover)::after {
+    opacity: 0;
+    visibility: hidden;
+}
+
+/* Tooltip styling */
+.mini-new-chat-button[data-tooltip]:hover::after {
+    content: attr(data-tooltip); /* Show the tooltip text */
+    position: absolute;
+    top: 25%;
+    left: 90%;
+    transform: translateY(-50%);
+    background-color: #333;
+    color: #fff;
+    padding: 13px 12px;
+    border-radius: 5px;
+    font-size: 14px;
+    white-space: nowrap;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+/* Initially hidden */
+.mini-new-chat-button[data-tooltip]:not(:hover)::after {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.close-sidebar-button[data-tooltip]:hover::after {
+    content: attr(data-tooltip); /* Show the tooltip text */
+    position: absolute;
+    top: 6.7%;
+    left: 97%;
+    transform: translateY(-50%);
+    background-color: #333;
+    color: #fff;
+    padding: 13px 12px;
+    border-radius: 5px;
+    font-size: 14px;
+    white-space: nowrap;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+/* Initially hidden */
+.close-sidebar-button[data-tooltip]:not(:hover)::after {
+    opacity: 0;
+    visibility: hidden;
+}
+
+/* Menyembunyikan logo dan tombol open sidebar saat sidebar diperbesar */
+.sidebar-container.expanded .mini-sidebar {
+    display: none;
+}
+
+/* Menyembunyikan tombol 'new-chat' dan logo */
+.sidebar-container.expanded .mini-sidebar img {
+    display: none;
+}
+
+/* Main Sidebar Styles */
+.main-sidebar {
+    width: 0;
+    height: auto;
+    background: #fff;
+    overflow: hidden;
+    transition: width 0.3s ease;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar-container.expanded .main-sidebar {
+    width: 220px;
+    padding: 20px;
+}
+
+.sidebar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.sidebar-header h2 {
+    margin: 0;
+    color: #0a3d7e;
+    font-size: 1.5rem;
+}
+
+h1 {
+    color: rgb(10, 61, 126);
+    display: flex; /* Menggunakan flexbox untuk menyejajarkan logo dan teks */
+    font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+    font-size: 30.2px;
+    font-weight: 700;
+    line-height: 1; /* Mengatur line-height agar teks dan logo sejajar */
+    margin: 0; /* Menghilangkan margin default */
+    text-align: left;
+    width: auto; /* Mengatur lebar otomatis agar sesuai dengan konten */
+    margin-top: 35.856px; /* Jaga margin atas */
+    margin-bottom: 35.856px; /* Jaga margin bawah */
+    margin-left: 0; /* Pastikan margin kiri 0 */
+}
+
+h1 img {
+    width: 50px; /* Sesuaikan ukuran logo */
+    margin-right: 10px; /* Sesuaikan jarak antara logo dan teks */
+    align-self: center; /* Menyejajarkan logo secara vertikal di tengah h1 */
+}
+
+h3 {
+    color: rgb(64, 64, 64);
+    font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans", Ubuntu, Cantarell, "Helvetica Neue", Oxygen, "Open Sans", sans-serif;
+    font-size: 14px;
+    line-height: 1.5; /* Sesuaikan line-height */
+    margin: 10px 0 0 0; /* Sesuaikan margin */
+    text-align: left;
+    width: auto; /* Mengatur lebar otomatis agar sesuai dengan konten */
+}
+
+/* Chat Room List */
+#chat-rooms {
+    list-style: none;
+    padding: 10px 0;
+    margin: 0;
+    flex: 1;
+    overflow-y: auto;
+}
+
+.chat-room-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    margin-bottom: 8px;
+    border-radius: 8px;
+    background: #f6f8fa;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.chat-room-item:hover {
+    background-color: #e9ecef;
+}
+
+.chat-room-item.active {
+    background-color: #0a3d7e;
+    color: white;
+}
+
+.delete-room-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    opacity: 0.7;
+    transition: opacity 0.3s;
+}
+
+.delete-room-button:hover {
+    opacity: 1;
+}
+
+.trash-icon {
+    width: 18px;
+    height: 18px;
+}
+
+.chat-controls {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.new-chat-button {
+    width: 100%;
+    background-color: #0a3d7e;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.new-chat-button:hover {
+    background-color: #0056b3;
+}
+
+/* Chat Section */
+.chat-container {
+    transition: margin-left 0.3s ease;
+    margin-left: 260px; /* Adjust to match the mini sidebar */
+    margin-right: 180px; 
+    flex: 1;
+}
+
+.chat-container.expanded {
+    margin-left: 350px; /* When sidebar is expanded */
+    margin-right: 100px;
+
+}
+
+/* Ketika Sidebar Diminimalkan */
+.chat-container.minimized {
+    margin-left: 260px;  /* Menambahkan lebar mini sidebar */
+    margin-right: 180px;
+}
+/* Chat Header */
+.chat-header {
+    background-color: none;
+    color: #0a3d7e ;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+/* Chat Wrapper */
+#chat-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    overflow: hidden;
+    position: relative;
+    padding-bottom: 120px;
+}
+
+/* Chatbox (Scrollable Area) */
+.chatbox {
+    flex: 1;
+    padding: 15px;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    font-size: 1rem;
+    padding-bottom: 20px;
+}
+
+.chatbox-about {
+    flex: 1;
+    padding: 15px;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    font-size: 1rem;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+
+/* Chat Form (Tetap di Bawah) */
+.chat-form {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #f1f3f5;
+    border: 2px solid #ddd;
+    position: fixed; /* Lebar mengikuti lebar container */
+    bottom: 0;
+}
+
+/* Chat Form (Fixed di Bawah) */
+.chat-form {
+    display: flex;
+    align-items: center;
+    padding: 5px 15px;
+    background-color: none;
+    gap: 10px;
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 25px;
+    width: 58.5%; /* Adjust the width *//* Ensure padding is included in width calculation */
+    z-index: 10;
+    border-radius: 20px; /* Apply rounded corners to the gradient */
+    left: 22%;
+}
+
+.chat-form textarea {
+    flex: 1;
+    padding: 5px;
+    border: none;
+    background-color: #f1f3f5;
+    border-radius: 20px;
+    font-size: 1rem;
+    outline: none;
+    resize: none;  /* Disable resizing */
+}
+
+.chat-form button {
+    background-color: #0a3d7e;
+    border: none;
+    color: white;
+    border-radius: 20px;
+    padding: 8px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.chat-form button:hover {
+    background-color: #0056b3;
+}
+
+/* When Sidebar is Expanded */
+.sidebar-container.expanded + .chat-container .chat-form {
+    width: 57.5%; /* Expanded width for chat form */
+    left: 29%;  /* Keep it centered */
+}
+
+/* When Sidebar is Minimized */
+.sidebar-container.minimized + .chat-container .chat-form {
+    width: 70%;  /* Minimized width for chat form */
+    left: 20%;  /* Adjust it a bit to the left when the sidebar is minimized */
+}
+
+/* Other form elements */
+.chat-form textarea {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    background-color: #f1f3f5;
+    border-radius: 20px;
+    font-size: 1rem;
+    outline: none;
+    resize: none;  /* Disable resizing */
+}
+
+/* Pesan */
+.message {
+    max-width: 70%;
+    padding: 10px 15px;
+    border-radius: 15px;
+    word-wrap: break-word;
+    line-height: 1.4;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 0.3s ease-out;
+    white-space: pre-wrap;  /* Mengizinkan baris baru di dalam pesan */
+}
+
+.message.user {
+    align-self: flex-end;
+    background-color: #0f4996;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    max-width: fit-content;
+    text-align: justify;
+}
+
+.message.bot {
+    align-self: flex-start;
+    background-color: #e9ecef;
+    color: #333;
+    padding: 10px 15px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    max-width: fit-content;
+    text-align: justify;
+}
+
+/* Bubble untuk Pesan Cepat */
+.message.quick-message {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-end;
+    background-color: #e9ecef;
+    color: #333;
+    padding: 10px 15px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    margin-right: 7px;
+    max-width: 70%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Opsi di dalam Pesan Cepat */
+.quick-option {
+    background-color: #0a3d7e;
+    color: white;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.3s;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.quick-option:hover {
+    background-color: #0056b3;
+}
+
+/* Bubble Chat Loader */
+.message.typing {
+    align-self: flex-start;
+    background-color: #e9ecef;
+    color: #333;
+    border-radius: 20px;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    display: inline-flex;
+    gap: 5px;
+}
+
+.dot {
+    width: 8px;
+    height: 8px;
+    background-color: #0a3d7e;
+    border-radius: 50%;
+    animation: bounce 1.5s infinite;
+}
+
+.dot:nth-child(2) {
+    animation-delay: 0.2s;
+}
+
+.dot:nth-child(3) {
+    animation-delay: 0.4s;
+}
+
+@keyframes bounce {
+    0%, 80%, 100% {
+        transform: scale(0);
+    }
+    40% {
+        transform: scale(1);
+    }
+}
+
+/* Responsiveness */
+@media (max-width: 768px) {
+    .main-container {
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    .sidebar-container {
+        max-width: 100%;
+    }
+
+    .chat-container {
+        flex: 1;
+        margin-top: 20px;
+    }
+
+    .chat-form {
+        margin-top: 20px;
+    }
+}
+
+/* Tombol Toggle Sidebar */
+.toggle-sidebar-button {
+    background: #0a3d7e;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1.2rem;  
+    cursor: pointer;
+    position: fixed; /* Tetap terlihat */
+    top: 5px;
+    left: 10px;
+    z-index: 1000;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.sidebar.minimized + .toggle-sidebar-button {
+    transform: rotate(180deg); /* Rotasi ikon saat sidebar diminimalkan */
+}
+
+.toggle-sidebar-button:hover {
+    background-color: #0056b3;
+}

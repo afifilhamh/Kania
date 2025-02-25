@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kania | Kawan Makan Siang Anda</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="main-container">
+        <!-- Toggle button for minimized state -->
+        <button id="toggle-sidebar" class="toggle-sidebar-button">≡</button>
+
+        <!-- Sidebar -->
+        <aside class="sidebar-container">
+            <!-- Mini Sidebar -->
+            <div class="mini-sidebar">
+                <img src="/static/logo-kania.png" alt="Logo" class="mini-logo" data-tooltip="About Kania"/>
+                <button id="open-sidebar" class="open-sidebar-button" data-tooltip="Open sidebar">☰</button>
+                <button id="mini-new-chat" class="mini-new-chat-button" data-tooltip="New chat">+</button>
+            </div>
+
+            <!-- Main Sidebar -->
+            <div class="main-sidebar">
+                <div class="sidebar-header">
+                    <img src="/static/logo2-kania.png" alt="Logo" class="mini-logo-2" data-tooltip="About Kania"/>
+                    <button id="close-sidebar" class="close-sidebar-button" data-tooltip="Close sidebar">×</button>
+                </div>
+
+                <div class="chat-controls">
+                    <button type="button" id="new-chat" class="new-chat-button">New Chat</button>
+                </div>
+                
+                <ul id="chat-rooms">
+                    <li class="chat-room-item" data-room-id="room-1">
+                        <span class="room-name">Chat Room 1</span>
+                        <button class="delete-room-button" data-room-id="room-1">
+                            <img src="/static/trash-icon.png" alt="Delete" class="trash-icon">
+                        </button>
+                    </li>
+                </ul>
+            </div>
+        </aside>
+
+        <!-- Chat Section -->
+        <section class="chat-container">
+            <header class="chat-header">
+                <h1>Hi, I'm Kania</h1>
+                <h3>What would you like to have for lunch today?</h3>
+            </header>
+            <div id="chat-wrapper">
+                <!-- Container untuk pesan cepat -->
+                <div id="quick-messages-container" class="quick-messages-container"></div>
+
+                <!-- Chatbox untuk pesan -->
+                <div id="chatbox" class="chatbox"></div>
+
+                <!-- Form untuk mengirim pesan manual -->
+                <form id="chat-form" class="chat-form">
+                    <textarea id="user-input" placeholder="Ask for food recommendations..." rows="2"></textarea>
+                    <button type="submit" class="send-button">Sent</button>
+                </form>                
+            </div>
+        </section>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>
